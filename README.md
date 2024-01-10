@@ -42,7 +42,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Kimhyekwan&theme=dark&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimhyekwan&theme=dark&langs_count=8)](https://github.com/Kimhyekwan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimhyekwan&theme=dark&layout=donut)](https://github.com/Kimhyekwan/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fayun0614%2F&count_bg=%2379C83D&title_bg=%23555555&icon=ello.svg&icon_color=%23FFFFFF&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)     
   </div>
